@@ -61,7 +61,7 @@ const ContactForm = () => {
       <input
         type="email"
         placeholder="Email"
-        name="Email"
+        name="email"
         value={email}
         onChange={onChange}
       />
